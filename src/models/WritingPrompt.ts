@@ -1,4 +1,3 @@
-// src/models/WritingPrompt.ts
 import mongoose, { Schema, Document } from 'mongoose';
 
 export interface IWritingPrompt extends Document {
